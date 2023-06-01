@@ -1,7 +1,7 @@
-airtraffic
+Air_Trafic
 ==============================
 
-Predict Air Traffic by routes
+Prediction of air trafic by route 
 
 Project Organization
 ------------
