@@ -26,7 +26,7 @@ MODEL_NAMES = ['Prophet', 'LGBMRegressor', 'XGBRegressor', 'RandomForestRegresso
 
 # Ouverture du fichier
 
-df = pd.read_parquet('data/traffic_10lines.parquet')
+df = pd.read_parquet('src/data/traffic_10lines.parquet')
 
 
 
